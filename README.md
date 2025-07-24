@@ -2,7 +2,7 @@
 <h3 align="center">Senior Full Stack Engineer | Champion of Scalable Architecture, Standards, and Performance</h3>
 
 
-<div align="center"> ![My Octocat](https://your-image-url.com/image.png) </div>
+![My Octocat](/octocat-1753387328742.png) 
 
 🔭 I’m currently working on **several projects to improve developer productivity such as a local cloud orchestrators, service mapping capabilities and abstractions on complex integrations in .NET**
 
