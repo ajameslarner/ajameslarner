@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="/octocat-1753387328742.png" alt="My Octocat" width="30%"/>
+  <img src="/octocat-1753387328742.png" alt="My Octocat" width="50%"/>
 </p>
 
 
